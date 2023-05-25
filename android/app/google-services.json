@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "651853179042",
-    "project_id": "instagram-app-5448a",
-    "storage_bucket": "instagram-app-5448a.appspot.com"
+    "project_number": "141016718908",
+    "project_id": "open-loyalty-app",
+    "storage_bucket": "open-loyalty-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:651853179042:android:d735de793781c92d3f4ffb",
+        "mobilesdk_app_id": "1:141016718908:android:b5bc8d7c19e35f97766d39",
         "android_client_info": {
-          "package_name": "com.example.instagram"
+          "package_name": "com.example.open_loyalty"
         }
       },
       "oauth_client": [
         {
-          "client_id": "651853179042-s77l761povt4b29gtb8iudvrnrvdgag6.apps.googleusercontent.com",
+          "client_id": "141016718908-ctk9qb85l33glkcbdjicg9i7vt4ah7eg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDVaGu7kbYQxVPYufIkyK0uVelvjWB0sbU"
+          "current_key": "AIzaSyDDfE-0DTux-ClyjWsgTyExO4Ic3hwfW0k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "651853179042-s77l761povt4b29gtb8iudvrnrvdgag6.apps.googleusercontent.com",
+              "client_id": "141016718908-ctk9qb85l33glkcbdjicg9i7vt4ah7eg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
